@@ -6,11 +6,11 @@ on:
       ROM_URL:
         description: 'ROM_URL'
         required: true
-        default: 'https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/V12.5.1.0.RFJCNXM/miui_DAVINCI_V12.5.1.0.RFJCNXM_d03c1be4ec_11.0.zip'
+        default: 'https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/V12.5.1.0.RGGCNXM/miui_BEGONIA_V12.5.1.0.RGGCNXM_0b7bc915a1_11.0.zip.zip'
       ZIP_NAME:
         description: 'ZIP_NAME'
         required: true
-        default: 'miui_DAVINCI_V12.5.1.0.RFJCNXM_d03c1be4ec_11.0.zip'
+        default: 'miui_11.0.zip'
       OS_TYPE:
         description: 'OS_TYPE'
         required: true
