@@ -6,7 +6,7 @@ on:
       ROM_URL:
         description: 'ROM_URL'
         required: true
-        default: 'https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/V12.5.1.0.RGGCNXM/miui_BEGONIA_V12.5.1.0.RGGCNXM_0b7bc915a1_11.0.zip.zip'
+        default: 'https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/V12.5.1.0.RKSCNXM/miui_CAMELLIA_V12.5.1.0.RKSCNXM_b20bd1ae3c_11.0.zip'
       ZIP_NAME:
         description: 'ZIP_NAME'
         required: true
